@@ -1,0 +1,8 @@
+{
+  "name": "Havhotellet - Coastal Comfort Redefined",
+  "description": "A premium hotel experience website featuring high-end visual design, room management, culinary storytelling, and an integrated AI concierge for personalized stay planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
